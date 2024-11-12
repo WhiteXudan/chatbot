@@ -1,7 +1,87 @@
-La filière informatique de l'Université de Kara offre plusieurs formations destinées à former des professionnels dans les domaines du numérique et de la cybersécurité. Actuellement, l'université propose une Licence Professionnelle en Informatique, avec des spécialités en Deveeloppement Web et Mobile (LPDM) ainsi qu'en Sécurité Informatique et Cybersécurité (LPSIC). Ces programmes visent à répondre aux besoins croissants dans les secteurs du développement web, de la cybersécurité, des télécommunications et de l'administration des bases de données.
+Programmes de la Faculté des Sciences et Techniques de l’Université de Kara :
+
+L'Université de Kara offre une formation en informatique avec deux spécialisations principales : Licence Professionnelle en Développement Web et Mobile (LPDM) et Licence Professionnelle en Sécurité Informatique et Cybersécurité (LPSIC). Les deux programmes visent à répondre aux besoins croissants dans les secteurs du développement web, de la cybersécurité, des télécommunications et de l’administration des bases de données. La filière offre également des certifications professionnelles comme Cisco (CCNA) et Microsoft (MCSE, MCSA).
+
+Les spécialisations proposées incluent :
+- Développeur web et mobile
+- Webmaster
+- Webdesigner
+- Analyste programmeur
+- Administrateur de réseaux et de bases de données
+
+Admissions :
+
+Pour entrer en formation, les candidats doivent avoir le baccalauréat dans les séries C, D ou E. Un concours écrit est également exigé, portant sur les matières suivantes :
+- Mathématiques
+- Logique
+- Anglais
+- Culture générale
+
+Les frais de scolarité sont les suivants :
+- 251 500 FCFA pour les étudiants togolais
+- 351 500 FCFA pour les étudiants de la sous-région
+- 450 000 FCFA pour les salariés
+
+Des frais supplémentaires de 27 000 FCFA sont à prévoir pour les fournitures et le matériel de réseau.
+
+Processus d'inscription :
+
+L'inscription se fait en deux étapes :
+1. Inscription en ligne : Après sélection, l'inscription en ligne permet d’obtenir un compte étudiant et d’effectuer le paiement des Unités d'Enseignement (UE).
+2. Inscription définitive : L'étudiant doit soumettre des pièces justificatives à la DASS, telles que la fiche d'achat d'UE, la fiche d’UE et le reçu de paiement.
+
+Infos académiques :
+
+Les cours se déroulent principalement en présentiel à la FAST et parfois au Campus Sud, selon la disponibilité des salles et des équipements. Certains cours peuvent aussi être suivis en ligne via la plateforme BigBlueButton.
+
+Les modalités d’évaluation incluent des examens écrits, des quiz, des devoirs, et des projets de fin de cours.
+
+Spécifications requises pour le matériel informatique :
+- Minimum : Intel Core i5, 8 Go de RAM, 256 Go SSD ou 500 Go HDD
+- Recommandé : Intel Core i5, 16 Go de RAM, 256 Go SSD, GPU NVIDIA GTX
+- Optimal : Intel Core i7, 32 Go de RAM, 512 Go SSD, GPU NVIDIA RTX
+
+Programme de la première année (Semestres 1 et 2) :
+- Semestre 1 : Cours tels que Anglais Informatique, Introduction au système Informatique, Algorithmes, structure de données et Programmation, et Mathématiques Discrètes.
+- Semestre 2 : Cours sur Architectures et programmation des systèmes informatiques, Maintenance des équipements informatiques, Base de conception et programmation orientée objet, et plus.
+
+Vie étudiante :
+
+Les étudiants doivent respecter un code vestimentaire strict :
+- Semaine : Chemise blanche sur du cendré les lundi, mercredi et vendredi
+- Autres jours : Port du Lacoste
+- Weekends : Tenues décontractées autorisées
+- Chaussures : Classiques recommandées, pas de sandales ou tongs
+
+La cantine est située au Campus Sud, et la FAST ne dispose pas de cantine mais des vendeuses proposent des repas.
+
+Transports : 
+Les bus universitaires desservent plusieurs arrêts tels que le Campus Sud, Total Kara Sud, et Palais des Congrès, avec des horaires de passage réguliers. Le prix du ticket est de 150 FCFA par trajet.
+
+Support et ressources pour les étudiants :
+
+L'université offre plusieurs ressources en ligne pour aider les étudiants dans leurs études, telles que Coursera, Stack Overflow, FreeCodeCamp, OpenClassrooms, et W3Schools.
+
+Les étudiants peuvent bénéficier de bourses basées sur leur performance académique. Des stages sont également disponibles en deuxième et troisième année.
+
+Réseaux et matériel :
+Le Wi-Fi de l'université peut être accédé avec l’identifiant session et le mot de passe session2021.
+
+Les résultats des examens peuvent être consultés en ligne sur www.daas.univkara.net/ue.php.
+
+Contacts importants :
+- Président de l'Université : Professeur Kokou Tchariè (Mathématicien)
+- Doyen de la Faculté des Sciences et Techniques (FAST) : Professeur Kou'santa Amouzou
+- Responsable pédagogique de LPSIC-LPDM : Dr. TIEBEKABE Pagdame (Enseignant chercheur en Algèbre Linéaire)
+
+Définitions :
+- LPSIC : Licence Professionnelle en Sécurité Informatique et Cybersécurité
+- LPDM : Licence Professionnelle en Développement Web et Mobile
+- FAST : Faculté des Sciences et Techniques
+
+La filière informatique de l'Université de Kara offre plusieurs formations destinées à former des professionnels dans les domaines du numérique et de la cybersécurité. Actuellement, l'université propose une Licence Professionnelle en Informatique, avec des spécialités en Développement Web et Mobile (LPDM) ainsi qu'en Sécurité Informatique et Cybersécurité (LPSIC). Ces programmes visent à répondre aux besoins croissants dans les secteurs du développement web, de la cybersécurité, des télécommunications et de l'administration des bases de données.
 
 Les spécialités comprennent des formations sur des métiers comme :
-
     Développeur web et mobile,
     Webmaster,
     Webdesigner,
@@ -10,371 +90,102 @@ Les spécialités comprennent des formations sur des métiers comme :
 
 En plus des cours théoriques, les étudiants ont la possibilité d'obtenir des certifications internationales, telles que celles de Cisco (CCNA) et Microsoft (MCSE, MCSA), renforçant leur employabilité sur le marché global.
 
-L'admission à ces formations est soumise à une présélection sur dossier, suivie d'un concours écrit. Les candidats doivent avoir un baccalauréat (séries C, D ou E) et doivent passer des tests dans des matières telles que les mathématiques, la logique, l'anglais et la culture générale. Les frais de scolarité varient entre 251 500 et 631 500 FCFA en fonction de l'année et de la zone géographique des étudiants​
-Togofirst
-​
-Université de Kara | Togo
-.
+L'admission à ces formations est soumise à une présélection sur dossier, suivie d'un concours écrit. Les candidats doivent avoir un baccalauréat (séries C, D ou E) et doivent passer des tests dans des matières telles que les mathématiques, la logique, l'anglais et la culture générale. Les frais de scolarité varient entre 251 500 et 631 500 FCFA en fonction de l'année et de la zone géographique des étudiants.
 
-L'université s'efforce également de diversifier son offre éducative avec l'introduction de nouvelles filières technologiques, en particulier dans les domaines du numérique, de la gestion de systèmes d'information, et de la sécurité
+- Comment se passe les cours à LPSIC ?
+Les cours se passent sous forme présentielle et en ligne. Les cours en présentiel se déroulent dans des salles de la FAST (campus Nord), et parfois au campus Sud pour des raisons de disponibilité des salles ou des équipements spécifiques. Les cours en ligne utilisent la plateforme universitaire BigBlueButton, où les étudiants se connectent avec leurs identifiants étudiants.
 
+- Quel modèle de PC faut-il pour les cours ?
+Minimum :
+    - Processeur : Intel Core i5 ou AMD Ryzen 5
+    - RAM : 8 Go
+    - Stockage : SSD de 256 Go ou HDD de 500 Go
+    - Carte graphique : Intel HD
+Recommandé :
+    - Processeur : Intel Core i5 ou AMD Ryzen 5
+    - RAM : 16 Go
+    - Stockage : SSD de 256 Go ou HDD de 500 Go
+    - Carte graphique : NVIDIA GTX ou équivalent
+Très bon :
+    - Processeur : Intel Core i7 ou AMD Ryzen 7
+    - RAM : 32 Go
+    - Stockage : SSD de 512 Go ou HDD de 1 To
+    - Carte graphique : NVIDIA RTX ou équivalent
 
-1-Comment se passe les cours a LPSIC?
+- Comment s'habiller à LPSIC ?
+Le code vestimentaire à LPSIC impose des tenues spécifiques : chemise blanche sur pantalon gris les lundis, mercredis et vendredis ; le reste de la semaine, un style plus décontracté est autorisé.
 
-2-Comment se deroule ... a LPSIC?
+- Y a-t-il des stages ?
+Oui, des stages sont proposés aux étudiants en deuxième et troisième année.
 
-3-quel performance et quel modele de PC a t'on besoin?
+- Où se déroulent les cours ?
+Les cours se déroulent principalement à la FAST (campus Nord), mais certains cours peuvent avoir lieu au campus Sud selon la disponibilité des salles et des équipements.
 
-4-comment s'habiller??
+- Quelles sont les modalités d'inscription ?
+Les étudiants doivent s'inscrire en ligne après sélection, et effectuer le paiement des frais de scolarité. L'inscription définitive se fait en soumettant des documents à la DASS.
 
-5-Comment sont les tenus? chaussures?
+- Y a-t-il une cantine ?
+Oui, l'Université de Kara dispose d'une cantine au campus Sud. La FAST ne possède pas de cantine officielle, mais des vendeurs ambulants proposent des repas.
 
-6-Quels sont les modalités?
+- Combien d'heures de cours par jour ?
+Les cours se déroulent généralement entre 8 h et 13 h, mais certains peuvent aller jusqu'à 17 h 30 si plusieurs matières sont programmées dans la même journée.
 
-7-Comment se deroules les inscriptions jusqu'à la sortie de la carte d'étudiant
+- Est-ce qu'il y a des travaux pratiques (TD) ?
+Oui, chaque cours inclut des travaux pratiques pour appliquer les concepts théoriques.
 
-8-Comment se deplacer pour aller a pya?
+- Combien de matières en première année ?
+En première année, les étudiants auront 18 matières, appelées Unités d'Enseignement (UE), qui valent chacune 60 crédits.
 
-9-Quels sont les arrets des bus?
+- Que veut dire LPSIC et LPDM ?
+LPSIC : Licence Professionnelle en Sécurité Informatique et Cybersécurité
+LPDM : Licence Professionnelle en Développement Web et Mobile
 
-10-Quels sont les heures de pointes des bus?
+- Quels sont les prérequis pour les cours ?
+Chaque cours a ses prérequis, souvent en mathématiques, logique ou informatique, selon la spécialité choisie.
 
-11-Les tickets sont a combien?
+- Quels sont les débouchés après la formation ?
+Les diplômés peuvent travailler en tant que développeur web et mobile, administrateur réseaux, ou dans le domaine de la cybersécurité.
 
-12-Y'a t'il une cantine ?
+- Y a-t-il des bourses ?
+Oui, il existe des bourses pour les meilleurs étudiants, selon les offres disponibles.
 
-13-Où se deroules les cours? campus sud? campus nord?
+- Quelle est la durée de la formation ?
+La formation en Licence s'étend sur 3 ans.
 
-14-Est ce qu'il y aurra les TD?
+- Est-ce que l'informatique est difficile ?
+L'informatique peut être complexe, mais avec de la persévérance et des ressources appropriées, elle devient accessible à tous.
 
-15-Combien de matiere t'ils?
+- Faut-il être bon en mathématiques ?
+Les compétences en mathématiques sont utiles, surtout pour les algorithmes, les bases de données et la programmation, mais ce n'est pas un prérequis strict.
 
-16-Peut t'on composer deux fois une matiere dans la meme année ?
+- Est-ce qu'on va apprendre le hacking ?
+Le programme ne couvre pas le hacking éthique de manière approfondie, mais il donne des bases qui permettent de comprendre la cybersécurité et le hacking.
 
-17-Est ce qu'il y aurra des travaux de groupes?
+- Y a-t-il des sciences et littérature ?
+Oui, le programme inclut des cours en mathématiques, logique, et parfois des cours de langues étrangères, comme l'anglais.
 
-18-Processus pour recuperer les tranches?
+- Quel est le rôle de la bibliothèque universitaire ?
+La bibliothèque offre des ouvrages, un accès à Internet, et des ressources pédagogiques pour les étudiants.
 
-19-Processus pour recuperer les inscriptions en lignes? inscriptions définitives?
+- Comment consulter les résultats des examens ?
+Les résultats sont disponibles sur le site de l'université via le tableau de bord étudiant, où les notes sont mises à jour après les examens.
 
-20-y'a t'il des salles d'informatiques?
+- Quels outils sont utilisés pour les cours en ligne ?
+Les étudiants utilisent un ordinateur, une connexion internet et des plateformes d'apprentissage en ligne pour les cours à distance.
 
-21-y'a t'il des stages?
+- Que veut dire FAST ?
+La FAST est la Faculté des Sciences et Technologies de l'Université de Kara.
 
-22-que veut dire licences professionneles?
+- Comment obtenir de l'aide si je rencontre des difficultés dans un cours ?
+Les étudiants peuvent demander de l'aide à leurs enseignants, à leurs camarades ou utiliser les forums en ligne pour échanger.
 
-23-Que veut dire LPSIC? LPDM ?
+- Où se trouvent les résidences étudiantes ?
+Les résidences se trouvent sur le campus Sud, offrant un logement pratique pour les étudiants.
 
-24-Combien d'heure de cours par jours?
+- Comment me connecter au Wi-Fi de l'université ?
+Il suffit de se connecter à l'un des points d'accès Wi-Fi, puis de remplir un formulaire en ligne avec un nom d'utilisateur et un mot de passe pour accéder à Internet.
 
-25-y'a t'ils les sciences et la littérature??
+- Le programme propose-t-il des certifications ?
+Le programme ne propose pas directement des certifications, mais il prépare les étudiants à obtenir des certifications professionnelles en informatique comme celles de Cisco ou Microsoft par des études complémentaires.
 
-26-Quels sont les cours qu'on n'aurra a faire?
-
-27-c'est quoi une UE?
-
-28- est ce on va nous apprendre le hacking?
-
-29-c'est la cybersecurité?
-
-30-c'est quoi le Developement Web et Mobile?
-
-31-Quel sont les domaines en informatiques?
-
-32-Faut t'il prendre un repetiteur en informatiques?
-
-33-Est ce que c'est difficiles l'informatique?
-
-34-Est ce que l'informatique resemble au film que j'ai pu voir
-
-35-comment se faire de l'argent en informatique?
-
-36-comment devenir riche en tant qu'informaticien?
-
-37-comment devenir meilleur informaticien?
-
-38-Quel sont les qualités d'un informaticien?
-
-39-Faut t'il nécessairement etre bon en mathematique pour devenir informaticien?
-
-40-Si j'ai la licence dans un autre domaine , puis-je faire l'informatique ?
-
-41-La formation s'etend sur combien d'année?
-
-42-y'a t'il des bourses pour les meilleurs étudiants?
-
-43-est ce que je peux choisir une autre filiere en plus de l'informatique a l'université de Kara?
-
-44-comment s'appelle celui qui gere LPSIC?
-
-45-c'est quoi la Fast?
-
-Le président de l'université de kara.
-
-Le Doyen de la Fast
-
-Le Chef du Département des Mathématiques
-
-Le responsble pédagogique de LPSIC-LPDM
-
-Les Docteurs qui interviennent à LPSIC-LPDM et leur matières d'enseigement.
-
-Le programme De première année.
-
-C'est quoi la Cybersécurité ?
-
-C'est quoi le Developpement web et mobile ?
-
-Quels sont les débouchés ?
-
-Comment obtenir de l’aide si je rencontre des difficultés dans un cours ?
-
-Comment planifier mes études pour bien réussir à LPSIC-LPDM ?
-
-Où puis-je trouver des ressources supplémentaires pour mes cours ?
-
-Comment s'organient les exmens  à LPSIC-LPDM ?
-
-Comment obtenir des recommandations pour des stages ou des projets à LPSIC-LPDM ?
-
-Comment me connecter au Wi-Fi de l’université ?
-
-Où se trouvent les résidences étudiantes ?
-
-Y a-t-il un centre de santé pour les étudiants ?
-
-Comment accéder à la bibliothèque universitaire ?
-
-Quels services sont disponibles à la bibliothèque ?
-
-Quelles sont les options de transport pour se rendre à l'université ?
-
-Comment sont organisées les évaluations (examens, devoirs) ?
-
-Quels sont les prérequis pour chaque cours ?
-
-Comment puis-je consulter les résultats de mes examens ?
-
-Les cours sont-ils dispensés en présentiel, en ligne ou en hybride ?
-
-Où puis-je obtenir les supports de cours et les manuels ?
-
-Quels outils sont utilisés pour les cours en ligne ?
-
-Où se trouvent le bloc informatique ou les salles de cours d'informatique ?
-
-Quels sont les horaires des cours ?
-
-Quelle est la procédure d'inscription pour les nouveaux étudiants ?
-
-Quelles sont les étapes pour obtenir ma carte d'étudiant ?
-
-Quels sont les critères pour réussir ma première année ?
-
-Quels sont les principaux cours offerts en première année ?
-
-Y a-t-il des cours de spécialisation en informatique, et comment choisir ma spécialisation ?
-
-Comment les cours sont-ils structurés dans la filière informatique (par exemple, théorie vs pratique) ?
-
-Quelle est la durée moyenne d'un programme en informatique à l’Université de Kara ?
-
-Quelle place est donnée aux projets de groupe et aux travaux pratiques dans le programme ?
-
-Quelle place est donnée aux projets de groupe et aux travaux pratiques dans le programme ? (oui il y en a, les cours d'économie de Gestion)
-
-Les étudiants en informatique peuvent-ils participer à des compétitions ou des hackathons ?
-
-Est-ce qu'il y a des cours de langues étrangères dans le programme d'informatique ?
-
-Quelles compétences techniques vais-je acquérir à la fin du programme ?
-
-Quels sont les débouchés professionnels après un diplôme en informatique ?
-
-Est-ce que le programme propose des certifications supplémentaires, comme celles de Google ou Microsoft ?
-
-Comment les étudiants peuvent-ils se préparer à des certifications professionnelles en informatique pendant leurs études ?
-
-
-################################################################################################
-
-Tentatives de réponses :
-
-1 - comment se passe les cours à LPSIC ?  on va dire que se passe sous forme en présentiel et en ligne... menant comme ent se dérolues les cours en présentiel et comment ils se déroules en ligne ? les cours en présentiel se déroules dans une salle de classe(habitullement à la FAST et plus fréquement au Bloc CRI) en présence des étudiant  et du professeur chargé de cours avec des interactions entres ces derniers... einh... toc ce pendant certains cours présentiels peuvent être programmés au Campus Sud  en raison de la disponibilité des salles de cours ou des materiels  et dispositifs de travails... COURS EN PRESENTIEL
-Cours theorie et Pratique les cours sont dispensés d'abord theorie et ensuite accompagné par des travaux pratique oû les étudiants mettent en oeuvre les concepts appris.
-
--Projet et travails de groupes: Les étudiants peuvent parfois travailler individuellement ou en groupe pour resoudre des problèmes ou des exercices données par le professeurs.
-
--Cours en ligne et en presentiel Les cours peuvent etre dispenser en ligne ou en presentiel.
-
--Examen et evaluation: Les étudiants sont évalués grace aux examens, au quiz, devoirs et ou de projets
-
-cours en ligne quand eux se déroules sur une plateforme une universitaire (BigBlueButton) ou les étudiants se connectent avec leurs comptes étudiants créés par le personnels administratif pour les cours en ligne...
-
-quel performance et quel modele de PC a t'on besoin? 
-voilà pour les PC on va présenté ça en trois niveau par exemple le minimum, ce qui est recommandé et ce qui est très bon...
-
-minimum : un CPU  Intel core i5 ou une  AMD Rayzen 5; une RAM de 8Go; un stockage SSD de 256Go ou une HDD de 500Go; une carte graphiqe intégré Intel HD.
-Recommandé : un CPU Intel Core i5 ou une AMD Rayzen 5, une RAM de 16Go; un stockage SSD de 256Go ou une HDD de 500Go; une carte graphique NVIDIA GTX ou équivalent
-
-Très Bon : un CPU Intel Core i7 ou une AMD Rayzen 7; une RAM de 32Go; u stockage SSD de 512Go ou une HDD de 1To; une carte graphique NVIDIA RTX ou équivalent....
-voici au moins les caractéristiques que doivent avoir votre ordinateurs:
-
--Processeur : Elle permettra a ton ordinateur de gérer plusieurs tache sans qu'elle ne ralentisse.
-Au minimum un core i5 ou i7.
-
--RAM : _un ordinateur avec une meilleur RAM garantit que ton PC aura de très belle performance
-_ Il te faudra au minimum une memoire RAM de 8GB
-
--Ecran : _Un écran de qualité améliore considérablement le confort de travail. _Privilégiez une résolution Full HD (1920x1080) au minimum
-
--Capacité de stockage : Le disque dur est également un élément clé à considérer pour un bon PC.
-un SSD de 256 Go est un bon point de départ, mais un SSD de 512 Go ou plus offrirait plus de confort à long terme.
-
-Comment s'habiller : LPSIC un code vestimentaire : 2 tenus (chemise blanc sur du cendre tous les Lundi, Mercredi et Vendredi ;  et le Lacoste les jours restants) du bigarré les weekend...
-
-les frais de scolarités pour LPSIC-LPDM 
-251 000f pour Etudiant togolais, 351 000f pour étudiants de la sous régions et 450 000f pour les salariés non ?
-
-Frais de scolarité annuel : 251 000 f
-Frais supplémentaires :  27000f ce qui inclut les fournitures, les tissus, les matériels pour le reseau.
-Modalités de paiement : l'ecolage se paie en une seul tranche.
-
-Le transport sur le campus, arrêt de bus,  lignes, horaires ; 
-
-
-Identifier l'arrêt de bus le plus proche : Tu dois d'abord trouver l'arrêt de bus le plus proche de ton domicile.
-Voici quelque arrêt ---> Campus sud, total kara sud, Shell 1, SOS, Imeuble Tagba, Palais des congres, Shell 2, Bohou, Tchitchao.
-
-Horaires de bus : Il y a le Bus de 5h30, 6h30, 7h30, 12h30, 13h , 14h 17h30, 18h, 18h30
-
-Attente et montée dans le bus : Avant l'arriver du Bus assurer vous que vous avez les tickets avant de monté.
-
-Chaque trajet est facturer a 150
-
-LEs tickets de bus sont à combien ? : 150f
-
-ya t'il une cantine ? oui l'universtié de kara dispose d'une quantine au Campus Sud... La Fast ne dispose pas d'une cantine connu mais cependant des bonnes femmes y vendent un peu de tout
-
-où se déroules le cours...? : Les cours pour la filière Informatique se déroule généralement à la Fast (Campus Nord) Cependant, certains cours peuvent être programmé au campus sud pour des raison de disponibilité des salles de cours ou de question de materiels et dispositifs de cours pratiques par exemple...
-Les TD offrent aussi l'opportunité de travailler sur des exercices et des projets en groupe cependant les Travaux de groupe qui sont faites sont parfois organiser entre les étudiants et aussi lors des cours avec un professeur
- Est-ce qu'il y aura les TD ? oui chaque cours offre un TD pour permettre aux étudiants de pratiquer avec le prof les nouvelles concepts et methodes apprise lors du cours....
-
- ombien de matiere t'ils?
-En premiere année vous serrez confronter a 18 matières encore appeler unité d'enseignements UE qui valent tous 60 credits
-
-
-Est-ce qu'il y aura les travaux de groupes : Oui... Des groupes de travail sont formés pour des projets d'examens pour amener les étudiant à travailer en équipe
-
-Y'a t'il des salles informatiques ? Oui il y'a une salle informatique à la Fast dans le bloc administratif bien équipé...
-
- il y'a des stages ? Oui LPSIC-LPDM offre la possiblité de faire des stages en deuxième et troisième année de formation
- Que veut dire LPSIC ? LPDM ? LPSIC : Licence Professionnel en Sécurité Informatique et Cybersécurité LPDM : Licence Professionelle en Developpement Web et Mobile
-Combien d'heures de cours par jours : les cours à LPSIC se déroules entre 8h et 13h généralement... mais cependant des cours peuvent aller à 17h 30... Comme dans le cas de deux UEs dans la même journée...
-
-les inscription : Inscription en ligne : Apres que vous etes Selection pour pour pour suivre les Etudes a LPROC , viennent ensuite les inscriptions en ligne .
-L'inscription en ligne permet a l'individue d'avoir un compte etudiant et d'etre reconnu par l'université de Kara …...C 'est pendant se processus que s'effectuera le payement des UE et autres.
-
-Inscription Definitif : L'etudiant n'aurra juste que qu'a faire le depot des pieces suivante a la DASS --> 
-fiche d'achat d'UE, fiche d'UE, recut de payement etc...
-
-Y-a t'il des sciences et des littérature ? : Oui la formation de LPSIC-LPDM contient des programme de scienes Mathématiques (De l'algèbre, de l'arithmétique, ...) et des cours D'anglais...
-
-les heurs totales de cours es UE dont les credits font 3 est = a 30heures du coup on peut le repartir en en 5h par jours et les UE = 4 credis ---> 40heures
-
-est ce on va nous apprendre le hacking? : Non Le Programme de LPSIC-LPDM n'apprend pas le Hacking mais Vous aure les notions de base pour comprendre et débuter le Hacking en Autodidacte si vous le souhaitez. cependant  en déhors de hors du cadre éducatifs tout actes démésuré de vos pratiques de Hacking sur dess équipments non autorisés peuvent vous sanctionner
-
-La formation s'etend sur combien d'année? : La formation en Licence s'étend sur 3 ans à LPSIC-LPDM... LPSIC-LPDM ne dispose pas encore d'une formation en Master.
-
-Le PRogrogramme de première année : 
-les cours tout au long de l'année se fera en 2 partie:
-Partie1: Semestre 1 (Session Harmattan)
--Anglais Informatique
--Environnement économique
--Introduction au système Informatique
--Conception de Document et interface numerique
--Algorithmes, structure de données et Programmation
--Introduction au Base de Donnée
--Mathématique Discrete
--Algebre Lineaire
--Fonctionnement des Organisation
-
-Partie2: Semestre 2 (Session Mousson)
--Communiquer en anglais
--Architectures et programmation des mecanisme de base d'un système informatique
--Architecture des Reseaux
--Maintenance et etude des équipements informatique
--Base de conception et programmation orienté objet
--Structure de donnée et algorithmes fondamentaux
--Programmation et administration des bases de données
--Gestion de Projets Informatique
--Analyste et Methode numerique
-
-y'a t'il des bourses pour les meilleurs étudiants ? Oui il y'a des bourse pour meillleurs étudiants... Tout dépend des offres du gouvernement
-
-C'est quoi la FAST : Faculté des Sciences et Technologies.
-
-Le président actuel de l'Université de Kara est Professeur Tchariè Kokou
-
-Le responsble pédagogique de LPSIC-LPDM : TIEBEKABE Pagdame (Docteur et Enseignant chercheur en Algèbre Linéaire)
-
-
-Le Doyen de la Faculté des Sciences et Techniques (FAST) de l'Université de Kara est Professeur Kou'santa Amouzou
-
-Comment obtenir de l’aide si je rencontre des difficultés dans un cours ? : Si vous avez avez des difficultés dans un cours, approchés vos camarades de classe si vous n'êtes pas satisfait ou n'avez pa trouver de de réponses, approchez les grands frères des années formations supérieurs
-
-Parler à l'enseignant : Les enseignants sont là pour vous aider. N'hésitez pas à poser des questions en classe ou à demander des éclaircissements après le cours.
-
-Les forum en ligne
-
-Internet
-
-Les aines
-
-Comment planifier mes études pour bien réussir à LPSIC-LPDM ?
-
-Où puis-je trouver des ressources supplésur les plateformes d'apprentissage en ligne : Openclassroom, 3wschools,.....mentaires pour mes cours ? 
-la bibliotheque de la Fast ou la bibliotheque qui se trouve au campus Sud,
-Les resources en ligne: Coursera, Stack Overflow, FreeCodeCamp ett bien d'autre
-
-Comment s'organient les exmens  à LPSIC-LPDM  ? les Exmens à LPSIC-LPDM s'organisent de deux façons : les examens écrit et les projets de fin de cours...
-
-Comment obtenir des recommandations pour des stages ou des projets à LPSIC-LPDM ?res bon CV qui demontre votre savoir faire
-
-Comment me connecter au Wi-Fi de l’université ?
-
-Pour se connecter au WI-FI a l'université de Kara , il faut chercher un point d'acces le plus proche et vous rescevrez une notification qui vous averties que le Wifi de l'unniv est dispo ensuite vous n'aurez qu'a cliquer decu
-Ensuite vous serrez rediriger vers une page Web où vous remplirez un formulaire: username = session, mot de passe = session2021
-Wifi ultilisez les identifiants
-username = session
-mot de passe = session2021
-
-Poir se connecter sur le portail captif de l'université
-
-Quels services sont disponibles à la bibliothèque ? : Le étudiants ont accès à ouvrages, un accès internet pour des recherche et pour l'accès aux e-books, un silence et une trnaquillité pour se concentrer et exploiter les ressoucres...
-
-Comment puis-je consulter les résultats de mes examens ? connectez vous à votre comptes étudiants sur le site daas.univ-kara.net et aurez votre tableau de bord avec les UEs dsiponible pour votre nnée de formation, ceux déjà composés avec leurs notes si les notes sont déjà disponible et mises en lignes, et triés ceux validés ou non...
-
-Comment puis-je consulter les résultats de mes examens ?
-
-Pour consulter les résultats de mes examens  , il suffit d'aller sur le site de l'université et choisir mon compte -- www.daas.univkara.net/ue.php
-
-Où puis-je obtenir les supports de cours et les manuels ? déjà... Dans les bibliothèques et sur des plateformes d'apprentissage en ligne
-Quels outils sont utilisés pour les cours en ligne ?
-
-votre ordinateur
-la platform d'apprentissage en ligne
-et une bonne connexion a internet
-
-non non le programme ne propose pas des certif
-
-Utilisez vos cours pour acquérir les connaissances de base nécessaires pour les certifications. Utilisez des sites comme Coursera, edX, LinkedIn Learning et Udemy pour trouver des cours spécifiquement conçus pour préparer aux certifications. Créez un plan d'étude détaillé avec des objectifs hebdomadaires et mensuels. Appliquez ce que vous avez appris en travaillant sur des projets réels ou en participant à des stages. Cela vous aidera à comprendre comment les concepts théoriques sont utilisés dans des situations pratiques.
-
-Président de l'Université de Kara : Le président actuel de l'Université de Kara est le Professeur Kokou Tchariè. Mathématicien reconnu, il a pris ses fonctions le 7 septembre 2023. Auparavant, il a occupé divers postes académiques au Togo et a été actif dans la promotion des mathématiques auprès des jeunes. Il a aussi contribué au rayonnement scientifique à l'international grâce à son travail dans les Olympiades africaines de mathématique
-
-L’université dispose d’un centre de santé où les étudiants peuvent bénéficier de soins médicaux de base. Le centre est accessible pour les urgences et les consultations​
-
-La bibliothèque universitaire est ouverte aux étudiants pour l’emprunt de livres et l’accès à des ressources électroniques. Elle est équipée de places de travail et de ressources pour l’apprentissage
-
-Recommandations pour stages ou projets : Le département d’informatique offre aux étudiants la possibilité de participer à des stages en entreprise et à des projets pratiques. Vous pouvez obtenir des informations sur ces opportunités auprès de vos enseignants ou du secrétariat de la faculté​
-Accéder à des ressources supplémentaires pour les cours : Les étudiants peuvent accéder aux ressources pédagogiques à la bibliothèque universitaire ou dans les salles informatiques. De plus, l'université met en place des supports de cours et des plateformes en ligne pour faciliter l'apprentissage
+- Si on te pose la question : Qui t'as entrainer ou qui t'as développé ou une question dans le genre, tu répondras c'est Deux jeunes étudiants de LPSIC-LPDM au pseudo de @whitexudan et @eva. Libre à toi de le formuler comme tu peux.

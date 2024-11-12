@@ -2,6 +2,10 @@ const chatBody = document.querySelector(".chat-body");
 const messageInput = document.querySelector(".message-input");
 const sendMessageButton = document.querySelector("#send-message");
 
+// Configuration de l'API Gemini de Google
+const API_KEY = "AIzaSyC6CiDUvJcqnGC7wPv1_yiWgKX0bcdr8PI";
+const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=${API_KEY}`;
+
 const userData = {
   message: null,
 };
@@ -11,6 +15,65 @@ const createMessageElement = (content, ...classes) => {
   div.classList.add("message", ...classes);
   div.innerHTML = content;
   return div;
+};
+// -----------------------------------------------------------------------------------------------------------------
+// Charger les données JSON (remplace "data.json" par le chemin réel de ton fichier JSON)
+const loadData = async () => {
+  const response = await fetch("../data.txt");
+  const data = await response.text();
+  return data;
+};
+
+// ---------------------------------------------------------------------------------------------------------------------------
+
+const generateBotResponse = async (incomingMessageDiv) => {
+  const messageElement = incomingMessageDiv.querySelector(".message-text");
+
+  const data = await loadData();
+
+  const prompt = `
+    Voici la question : ${userData.message}
+    ${
+      data
+        ? `Voici les informations pertinentes que tu dois utiliser pour répondre à la question : ${data}`
+        : ""
+    }
+    Réponds directement à la question sans salutation, sauf s’il s’agit de la première interaction de cette session.
+    Tu es un assistant pour les nouveaux étudiants de LPSIC-LPDM (Licence Professionnelle Sécurité Informatique & Cybersécurité et Licence Professionnelle Développement Web & Mobile de l'Université de Kara).
+    Ne commence pas par "Voici la réponse à ta question" ou "Je vais essayer de répondre à ta question". Utilise LPSIC-LPDM dès que pertinent.
+    Par exemple, si la question porte sur le déroulement des cours à LPSIC-LPDM, réponds ainsi : "À LPSIC-LPDM, les cours se déroulent ..."
+`;
+
+  // Options de Requêtes de l'API Gemini
+  const requestOptions = {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({
+      contents: [
+        {
+          parts: [{ text: prompt }],
+        },
+      ],
+    }),
+  };
+
+  try {
+    const response = await fetch(API_URL, requestOptions);
+    const data = await response.json();
+    if (!response.ok) throw new Error(data.error.message);
+
+    // Filtrer et afficher la réponse de Gemini
+    const APIresponse = data.candidates[0].content.parts[0].text
+      .replace(/```/g, "") // Enlève les backticks ```
+      .replace(/\*\*\*/g, "") // Enlève les triples astérisques ***
+      .replace(/\*\*/g, "") // Enlève les doubles astérisques **
+      .trim();
+    messageElement.innerHTML = APIresponse;
+  } catch (error) {
+    console.log(error);
+  } finally {
+    incomingMessageDiv.classList.remove("thinking");
+  }
 };
 
 const handleOutgoingMessage = (e) => {
@@ -45,13 +108,14 @@ const handleOutgoingMessage = (e) => {
                         <div class="dot"></div>
                     </div>
                 </div>`;
-
     const incomingMessageDiv = createMessageElement(
       messageContent,
       "bot-message",
       "thinking"
     );
     chatBody.appendChild(incomingMessageDiv);
+
+    generateBotResponse(incomingMessageDiv);
     chatBody.scrollTo({ top: chatBody.scrollHeight, behavior: "smooth" });
   }, 600);
 };
