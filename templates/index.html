@@ -11,6 +11,10 @@
 </head>
 
 <body>
+    <button id="chatbot-toggler" style="display: flex; justify-content: center;align-items: center;">
+        <span><box-icon type='solid' color="#ffffff" name='message-rounded'></box-icon></span>
+        <span><box-icon name="x-circle" color="#ffffff"></box-icon></span>
+    </button>
     <div class="chat-popup container">
         <!--Chat Header-->
         <div class="chat-header">
@@ -23,8 +27,7 @@
                 </svg>
                 <h2 class="logo-text">Chatbot</h2>
             </div>
-            <button id="close-chatbot" class="material-symbols-rounded"><box-icon name='chevron-down'
-                    color='#ffffff'></box-icon></button>
+            <button id="close-chatbot"><box-icon name='chevron-down' color='#ffffff'></box-icon></button>
         </div>
 
         <!--Chat Body-->
@@ -37,7 +40,7 @@
                     </path>
                 </svg>
                 <div class="message-text">
-                    Hey!<br> Je suis ton assistant. Je peux répondre à tes inquiétudes sur la filière...
+                    Hey!👋 Je suis ton assistant.<br> Je peux gérer tes crises de curiosité sur la filière...😊
                 </div>
             </div>
         </div>
@@ -47,7 +50,7 @@
             <form action="" class="chat-form">
                 <textarea placeholder="Message..." class="message-input" required></textarea>
                 <div class="chat-controls">
-                    <button type="button" class="material-symbols-rounded"><box-icon name='smile'
+                    <button type="button" class="material-symbols-rounded"><box-icon id="emoji-picker" name='smile'
                             color='#706DB0'></box-icon></button>
                     <button type="submit" class="material-symbols-rounded" id="send-message"><box-icon
                             name='paper-plane' color='#fff'></box-icon></button>
@@ -55,8 +58,11 @@
             </form>
         </div>
     </div>
+    <script src="https://cdn.jsdelivr.net/npm/emoji-mart@latest/dist/browser.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/boxicons/2.1.0/dist/boxicons.min.js"></script>
     <script src="/static/script.js"></script>
 </body>
 
 </html>
+
+<!-- bKmaoVsQwHX3Mdb8xJZAgqY1wQ974hEqY5pZK4Cm -->

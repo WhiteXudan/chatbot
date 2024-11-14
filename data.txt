@@ -1,100 +1,83 @@
-Programmes de la Faculté des Sciences et Techniques de l’Université de Kara :
-
+L’Université de Kara (UK) est située dans la ville de Kara, dans la région de la Kara, au nord du Togo. 
+L’Université de Kara est principalement implantée à Pya, une localité proche du centre de la ville de Kara, à environ 10 km au sud du centre-ville.
+L'Université de Kara possède un site web officiel, accessible à l’adresse suivante : www.univ-kara.tg.
+Ce site fournit des informations essentielles sur les programmes académiques, les procédures d'inscription, les actualités, les événements, et les ressources administratives.
+Des sections spécifiques y sont dédiées pour chaque faculté, ainsi que des informations sur les admissions, la recherche, et les services aux étudiants.
+Préinscription en ligne (daas.univ-kara.net) : Les candidats commencent souvent par remplir un formulaire en ligne, disponible sur le site officiel de l’Université de Kara. Il est important de suivre les instructions sur le site, car elles varient parfois d'une année à l'autre.
+Dépôt de dossier physique : Après la préinscription en ligne , les candidats doivent déposer un dossier de candidature physique. Ce dossier contient généralement une copie certifiée conforme des diplômes, des relevés de notes, un extrait de naissance, et parfois une photo d'identité.
+Paiement des frais d’inscription : Une fois le dossier accepté, les candidats sont invités à régler les frais d’inscription. Ces frais sont variables selon le niveau d’études et la faculté.
+Validation et inscription définitive : Après vérification des documents et le paiement des frais, l’inscription est finalisée. Les étudiants reçoivent alors leur carte d’étudiant.
+Définitions :
+- LPSIC : Licence Professionnelle en Sécurité Informatique et Cybersécurité
+- LPDM : Licence Professionnelle en Développement Web et Mobile
+- FAST : Faculté des Sciences et Techniques
+la FAST est une faculté scientifiques et technologiques de l'université de Kara.
+LPSIC et LPDM sont à leur tours des filières d'informatique de la FAST.
+La FAST est une faculté de l'université de Kara
+LPSIC et LPDM sont des filières de la FAST donc de l'université de Kara.
 L'Université de Kara offre une formation en informatique avec deux spécialisations principales : Licence Professionnelle en Développement Web et Mobile (LPDM) et Licence Professionnelle en Sécurité Informatique et Cybersécurité (LPSIC). Les deux programmes visent à répondre aux besoins croissants dans les secteurs du développement web, de la cybersécurité, des télécommunications et de l’administration des bases de données. La filière offre également des certifications professionnelles comme Cisco (CCNA) et Microsoft (MCSE, MCSA).
-
 Les spécialisations proposées incluent :
 - Développeur web et mobile
 - Webmaster
 - Webdesigner
 - Analyste programmeur
 - Administrateur de réseaux et de bases de données
-
 Admissions :
-
 Pour entrer en formation, les candidats doivent avoir le baccalauréat dans les séries C, D ou E. Un concours écrit est également exigé, portant sur les matières suivantes :
 - Mathématiques
 - Logique
 - Anglais
 - Culture générale
-
 Les frais de scolarité sont les suivants :
 - 251 500 FCFA pour les étudiants togolais
 - 351 500 FCFA pour les étudiants de la sous-région
 - 450 000 FCFA pour les salariés
-
 Des frais supplémentaires de 27 000 FCFA sont à prévoir pour les fournitures et le matériel de réseau.
-
 Processus d'inscription :
-
 L'inscription se fait en deux étapes :
 1. Inscription en ligne : Après sélection, l'inscription en ligne permet d’obtenir un compte étudiant et d’effectuer le paiement des Unités d'Enseignement (UE).
 2. Inscription définitive : L'étudiant doit soumettre des pièces justificatives à la DASS, telles que la fiche d'achat d'UE, la fiche d’UE et le reçu de paiement.
-
 Infos académiques :
-
 Les cours se déroulent principalement en présentiel à la FAST et parfois au Campus Sud, selon la disponibilité des salles et des équipements. Certains cours peuvent aussi être suivis en ligne via la plateforme BigBlueButton.
-
 Les modalités d’évaluation incluent des examens écrits, des quiz, des devoirs, et des projets de fin de cours.
-
 Spécifications requises pour le matériel informatique :
 - Minimum : Intel Core i5, 8 Go de RAM, 256 Go SSD ou 500 Go HDD
 - Recommandé : Intel Core i5, 16 Go de RAM, 256 Go SSD, GPU NVIDIA GTX
 - Optimal : Intel Core i7, 32 Go de RAM, 512 Go SSD, GPU NVIDIA RTX
-
 Programme de la première année (Semestres 1 et 2) :
 - Semestre 1 : Cours tels que Anglais Informatique, Introduction au système Informatique, Algorithmes, structure de données et Programmation, et Mathématiques Discrètes.
 - Semestre 2 : Cours sur Architectures et programmation des systèmes informatiques, Maintenance des équipements informatiques, Base de conception et programmation orientée objet, et plus.
-
 Vie étudiante :
-
 Les étudiants doivent respecter un code vestimentaire strict :
 - Semaine : Chemise blanche sur du cendré les lundi, mercredi et vendredi
 - Autres jours : Port du Lacoste
 - Weekends : Tenues décontractées autorisées
 - Chaussures : Classiques recommandées, pas de sandales ou tongs
-
 La cantine est située au Campus Sud, et la FAST ne dispose pas de cantine mais des vendeuses proposent des repas.
-
 Transports : 
 Les bus universitaires desservent plusieurs arrêts tels que le Campus Sud, Total Kara Sud, et Palais des Congrès, avec des horaires de passage réguliers. Le prix du ticket est de 150 FCFA par trajet.
-
+Horaires d'arrêt : 5h30, 6h30, 7h30, 12h30, 13h30, 14h, 17h30, 18h30.
 Support et ressources pour les étudiants :
-
-L'université offre plusieurs ressources en ligne pour aider les étudiants dans leurs études, telles que Coursera, Stack Overflow, FreeCodeCamp, OpenClassrooms, et W3Schools.
-
+il y a plusieurs ressources en ligne pour aider les étudiants dans leurs études, telles que Coursera, Stack Overflow, FreeCodeCamp, OpenClassrooms, et W3Schools.
 Les étudiants peuvent bénéficier de bourses basées sur leur performance académique. Des stages sont également disponibles en deuxième et troisième année.
-
 Réseaux et matériel :
 Le Wi-Fi de l'université peut être accédé avec l’identifiant session et le mot de passe session2021.
-
-Les résultats des examens peuvent être consultés en ligne sur www.daas.univkara.net/ue.php.
-
+Les résultats des examens peuvent être consultés en ligne via cette url www.daas.univkara.net/ue.php.
 Contacts importants :
 - Président de l'Université : Professeur Kokou Tchariè (Mathématicien)
 - Doyen de la Faculté des Sciences et Techniques (FAST) : Professeur Kou'santa Amouzou
 - Responsable pédagogique de LPSIC-LPDM : Dr. TIEBEKABE Pagdame (Enseignant chercheur en Algèbre Linéaire)
-
-Définitions :
-- LPSIC : Licence Professionnelle en Sécurité Informatique et Cybersécurité
-- LPDM : Licence Professionnelle en Développement Web et Mobile
-- FAST : Faculté des Sciences et Techniques
-
 La filière informatique de l'Université de Kara offre plusieurs formations destinées à former des professionnels dans les domaines du numérique et de la cybersécurité. Actuellement, l'université propose une Licence Professionnelle en Informatique, avec des spécialités en Développement Web et Mobile (LPDM) ainsi qu'en Sécurité Informatique et Cybersécurité (LPSIC). Ces programmes visent à répondre aux besoins croissants dans les secteurs du développement web, de la cybersécurité, des télécommunications et de l'administration des bases de données.
-
 Les spécialités comprennent des formations sur des métiers comme :
     Développeur web et mobile,
     Webmaster,
     Webdesigner,
     Analyste programmeur,
     Administrateur de réseaux et de bases de données.
-
 En plus des cours théoriques, les étudiants ont la possibilité d'obtenir des certifications internationales, telles que celles de Cisco (CCNA) et Microsoft (MCSE, MCSA), renforçant leur employabilité sur le marché global.
-
 L'admission à ces formations est soumise à une présélection sur dossier, suivie d'un concours écrit. Les candidats doivent avoir un baccalauréat (séries C, D ou E) et doivent passer des tests dans des matières telles que les mathématiques, la logique, l'anglais et la culture générale. Les frais de scolarité varient entre 251 500 et 631 500 FCFA en fonction de l'année et de la zone géographique des étudiants.
-
 - Comment se passe les cours à LPSIC ?
 Les cours se passent sous forme présentielle et en ligne. Les cours en présentiel se déroulent dans des salles de la FAST (campus Nord), et parfois au campus Sud pour des raisons de disponibilité des salles ou des équipements spécifiques. Les cours en ligne utilisent la plateforme universitaire BigBlueButton, où les étudiants se connectent avec leurs identifiants étudiants.
-
 - Quel modèle de PC faut-il pour les cours ?
 Minimum :
     - Processeur : Intel Core i5 ou AMD Ryzen 5
@@ -111,81 +94,57 @@ Très bon :
     - RAM : 32 Go
     - Stockage : SSD de 512 Go ou HDD de 1 To
     - Carte graphique : NVIDIA RTX ou équivalent
-
 - Comment s'habiller à LPSIC ?
-Le code vestimentaire à LPSIC impose des tenues spécifiques : chemise blanche sur pantalon gris les lundis, mercredis et vendredis ; le reste de la semaine, un style plus décontracté est autorisé.
-
+Le code vestimentaire à LPSIC impose des tenues spécifiques : chemise blanche sur pantalon gris les lundis, mercredis et vendredis ; le Lacoste Bleu pour les Mardi et Jeudi et les Weekends On est libre de porter ce qu'on veut (bigarré).
 - Y a-t-il des stages ?
 Oui, des stages sont proposés aux étudiants en deuxième et troisième année.
-
 - Où se déroulent les cours ?
 Les cours se déroulent principalement à la FAST (campus Nord), mais certains cours peuvent avoir lieu au campus Sud selon la disponibilité des salles et des équipements.
-
 - Quelles sont les modalités d'inscription ?
 Les étudiants doivent s'inscrire en ligne après sélection, et effectuer le paiement des frais de scolarité. L'inscription définitive se fait en soumettant des documents à la DASS.
-
 - Y a-t-il une cantine ?
 Oui, l'Université de Kara dispose d'une cantine au campus Sud. La FAST ne possède pas de cantine officielle, mais des vendeurs ambulants proposent des repas.
-
 - Combien d'heures de cours par jour ?
 Les cours se déroulent généralement entre 8 h et 13 h, mais certains peuvent aller jusqu'à 17 h 30 si plusieurs matières sont programmées dans la même journée.
-
 - Est-ce qu'il y a des travaux pratiques (TD) ?
 Oui, chaque cours inclut des travaux pratiques pour appliquer les concepts théoriques.
-
 - Combien de matières en première année ?
 En première année, les étudiants auront 18 matières, appelées Unités d'Enseignement (UE), qui valent chacune 60 crédits.
-
 - Que veut dire LPSIC et LPDM ?
 LPSIC : Licence Professionnelle en Sécurité Informatique et Cybersécurité
 LPDM : Licence Professionnelle en Développement Web et Mobile
-
 - Quels sont les prérequis pour les cours ?
 Chaque cours a ses prérequis, souvent en mathématiques, logique ou informatique, selon la spécialité choisie.
-
 - Quels sont les débouchés après la formation ?
 Les diplômés peuvent travailler en tant que développeur web et mobile, administrateur réseaux, ou dans le domaine de la cybersécurité.
-
 - Y a-t-il des bourses ?
 Oui, il existe des bourses pour les meilleurs étudiants, selon les offres disponibles.
-
 - Quelle est la durée de la formation ?
 La formation en Licence s'étend sur 3 ans.
-
 - Est-ce que l'informatique est difficile ?
 L'informatique peut être complexe, mais avec de la persévérance et des ressources appropriées, elle devient accessible à tous.
-
 - Faut-il être bon en mathématiques ?
 Les compétences en mathématiques sont utiles, surtout pour les algorithmes, les bases de données et la programmation, mais ce n'est pas un prérequis strict.
-
 - Est-ce qu'on va apprendre le hacking ?
 Le programme ne couvre pas le hacking éthique de manière approfondie, mais il donne des bases qui permettent de comprendre la cybersécurité et le hacking.
-
 - Y a-t-il des sciences et littérature ?
 Oui, le programme inclut des cours en mathématiques, logique, et parfois des cours de langues étrangères, comme l'anglais.
-
-- Quel est le rôle de la bibliothèque universitaire ?
-La bibliothèque offre des ouvrages, un accès à Internet, et des ressources pédagogiques pour les étudiants.
-
+La bibliothèque universitaire qui propose des ressources académiques, livres, revues, et accès à des bases de données en ligne.
+Le service d’orientation et d’aide à l’insertion professionnelle pour aider les étudiants à faire les meilleurs choix de filière et à préparer leur carrière.
+Des services sociaux et de santé pour soutenir le bien-être des étudiants.
 - Comment consulter les résultats des examens ?
 Les résultats sont disponibles sur le site de l'université via le tableau de bord étudiant, où les notes sont mises à jour après les examens.
-
 - Quels outils sont utilisés pour les cours en ligne ?
 Les étudiants utilisent un ordinateur, une connexion internet et des plateformes d'apprentissage en ligne pour les cours à distance.
-
 - Que veut dire FAST ?
 La FAST est la Faculté des Sciences et Technologies de l'Université de Kara.
-
 - Comment obtenir de l'aide si je rencontre des difficultés dans un cours ?
 Les étudiants peuvent demander de l'aide à leurs enseignants, à leurs camarades ou utiliser les forums en ligne pour échanger.
-
 - Où se trouvent les résidences étudiantes ?
 Les résidences se trouvent sur le campus Sud, offrant un logement pratique pour les étudiants.
-
 - Comment me connecter au Wi-Fi de l'université ?
 Il suffit de se connecter à l'un des points d'accès Wi-Fi, puis de remplir un formulaire en ligne avec un nom d'utilisateur et un mot de passe pour accéder à Internet.
-
 - Le programme propose-t-il des certifications ?
 Le programme ne propose pas directement des certifications, mais il prépare les étudiants à obtenir des certifications professionnelles en informatique comme celles de Cisco ou Microsoft par des études complémentaires.
 
-- Si on te pose la question : Qui t'as entrainer ou qui t'as développé ou une question dans le genre, tu répondras c'est Deux jeunes étudiants de LPSIC-LPDM au pseudo de @whitexudan et @eva. Libre à toi de le formuler comme tu peux.
+@whitexudan et @eva sont ceux qui t'ont développé.
