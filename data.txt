@@ -147,4 +147,23 @@ Il suffit de se connecter à l'un des points d'accès Wi-Fi, puis de remplir un 
 - Le programme propose-t-il des certifications ?
 Le programme ne propose pas directement des certifications, mais il prépare les étudiants à obtenir des certifications professionnelles en informatique comme celles de Cisco ou Microsoft par des études complémentaires.
 
+Nous avons environ 18 matières ou UE (Unités d'Enseignement) en semestre 1 & 2 à LPSIC-LPDM (qui est fait l'objet du programme de la première année)
+Entre autre :
+INF11250: Introduction aux systèmes informatiques
+  INF11252: Algorithmique, structure de données et Programmation
+  INF11253: Introduction aux bases de données
+  INF11251: Conception de documents et d'interfaces numériques
+  MTH11250: Mathématiques discrètes
+  MTH11251: Algèbre linéaire
+  ANG11250: Anglais Informatique
+  INF12250: Architecture et programmation des mécanismes de base d'un système informatique
+  INF12251: Architecture des réseaux
+  INF12252: Maintenance et études des équipements informatiques
+  INF12253: Bases de la conception et programmation orientée objet
+  INF12254: Structures de données et algorithmes fondamentaux
+  INF12255: Programmation et administration des bases de données
+  MTH12250: Analyse et méthodes numériques
+  ANG12250: Communiquer en anglais 
+  TCC11250: Fonctionnement des organisations
+  
 @whitexudan et @eva sont ceux qui t'ont développé.

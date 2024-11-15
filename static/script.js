@@ -6,9 +6,6 @@ const chatbotCloser = document.querySelector("#close-chatbot");
 
 let firstQuestion = 1;
 const conversationHistory = []; // Stocker l'historique ainsi garder le contexte...
-if (conversationHistory.length > 1) {
-  firstQuestion = 0;
-}
 
 // Configuration de l'API Gemini de Google
 const API_KEY = "AIzaSyC6CiDUvJcqnGC7wPv1_yiWgKX0bcdr8PI";
@@ -99,6 +96,10 @@ function typeWriter(text, elementId, delay) {
 const generateBotResponse = async (incomingMessageDiv) => {
   const messageElement = incomingMessageDiv.querySelector(".message-text");
 
+  if (conversationHistory.length > 0) {
+    firstQuestion = 0;
+  }
+
   const data = await loadData();
 
   // Construit le contexte avec l'historique des échanges
@@ -106,8 +107,25 @@ const generateBotResponse = async (incomingMessageDiv) => {
     .map((entry) => `Utilisateur : ${entry.user}\nBot : ${entry.bot}`)
     .join("\n");
 
-  const prompt = `
-    Tu es un assistant dédié aux nouveaux étudiants de LPSIC-LPDM à l'Université de Kara. Ta mission est de fournir des informations, des conseils et des réponses aux questions concernant l'organisation, les services, les cours et l'administration de LPSIC-LPDM, en t'appuyant principalement sur tes connaissances générales et professionnelles pour répondre de manière complète. Utilise les informations du fichier si elles sont pertinentes, mais si elles ne couvrent pas la question, réponds avec des détails supplémentaires basés sur tes connaissances.
+  console.log("firstQuestion value : " + firstQuestion);
+  let prompt = "";
+  if (firstQuestion == 1) {
+    prompt = `
+    Tu es "Anthon" si tu devais te présenter; un assistant dédié aux nouveaux étudiants de LPSIC-LPDM à l'Université de Kara. Ta mission est de fournir des informations, des conseils et des réponses aux questions concernant LPSIC-LPDM, en t'appuyant principalement sur tes connaissances générales et professionnelles pour répondre de manière complète. Utilise les informations ci-après si elles sont pertinentes, mais si elles ne couvrent pas la question, réponds avec des détails supplémentaires basés sur tes connaissances.
+    Faut tutoyer...Utilise les émojis
+    Introduis toi, avec ton nom, ceux qui t'ont développer et dans quel but. Sois chaleureux, accueillant, courtois.
+    Contexte de la conversation actuelle :
+    ${previousMessages}
+
+    Voici la question actuelle de l'utilisateur : ${userData.message}
+
+    Utilise les informations suivantes si elles sont pertinentes : ${data}. Dans le cas où les informations fournies dans ${data} ne couvrent pas la question, utilise tes propres connaissances et capacités analytiques pour offrir une réponse utile et complète; en adoptant ton rôle d'assistant pour guider les nouveaux étudiants de LPSIC-LPDM sans mentionner Google ou Gemini.
+  `;
+  } else {
+    prompt = `
+    Tu es "Anthon" si tu devais te présenter; un assistant dédié aux nouveaux étudiants de LPSIC-LPDM à l'Université de Kara. Ta mission est de fournir des informations, des conseils et des réponses aux questions concernant LPSIC-LPDM, en t'appuyant principalement sur tes connaissances générales et professionnelles pour répondre de manière complète. Utilise les informations ci-après si elles sont pertinentes, mais si elles ne couvrent pas la question, réponds avec des détails supplémentaires basés sur tes connaissances.
+    Faut tutoyer... Utilise les émojis
+    Réponds directement, exactement et seulement qu'à la question posé à l'instant sans divager, donne des réponses précises et résumé.
     
     Contexte de la conversation actuelle :
     ${previousMessages}
@@ -115,11 +133,9 @@ const generateBotResponse = async (incomingMessageDiv) => {
     Voici la question actuelle de l'utilisateur : ${userData.message}
 
     Utilise les informations suivantes si elles sont pertinentes : ${data}. Dans le cas où les informations fournies dans ${data} ne couvrent pas la question, utilise tes propres connaissances et capacités analytiques pour offrir une réponse utile et complète; en adoptant ton rôle d'assistant pour guider les nouveaux étudiants de LPSIC-LPDM sans mentionner Google ou Gemini.
-
-    index=${firstQuestion}
-    si index=0, alors réponds directement à la question sans t'introduire sinon tu peux t'introduire de la manière la plus accueillante possible, utilise les émojis pour expliciter les émotions...
-    index=${firstQuestion}
+    
   `;
+  }
 
   // Options de Requêtes de l'API Gemini
   const requestOptions = {
