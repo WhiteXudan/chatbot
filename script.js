@@ -69,7 +69,7 @@ const handleOutgoingMessage = (e) => {
 
 // Charger les données Text (remplace "data.txt" par le chemin réel de ton fichier Text)
 const loadData = async () => {
-  const response = await fetch("../data.txt");
+  const response = await fetch("./data.txt");
   const data = await response.text();
   return data;
 };
