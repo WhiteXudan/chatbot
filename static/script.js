@@ -2,6 +2,7 @@ const chatBody = document.querySelector(".chat-body");
 const messageInput = document.querySelector(".message-input");
 const sendMessageButton = document.querySelector("#send-message");
 const chatbotToggler = document.querySelector("#chatbot-toggler");
+const chatbotCloser = document.querySelector("#close-chatbot");
 
 let firstQuestion = 1;
 const conversationHistory = []; // Stocker l'historique ainsi garder le contexte...
@@ -194,7 +195,6 @@ const picker = new EmojiMart.Picker({
     messageInput.focus();
   },
 });
-
 document.querySelector(".chat-form").appendChild(picker);
 
 messageInput.addEventListener("keydown", (e) => {
@@ -213,3 +213,7 @@ sendMessageButton.addEventListener("click", (e) => {
 chatbotToggler.addEventListener("click", () =>
   document.body.classList.toggle("show-chatbot")
 );
+chatbotCloser.addEventListener("click", () => {
+  console.log("chatbotCloser cliqué");
+  document.body.classList.remove("show-chatbot");
+});
