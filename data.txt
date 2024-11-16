@@ -55,8 +55,8 @@ Les étudiants doivent respecter un code vestimentaire strict :
 - Chaussures : Classiques recommandées, pas de sandales ou tongs
 La cantine est située au Campus Sud, et la FAST ne dispose pas de cantine mais des vendeuses proposent des repas.
 Transports : 
-Les bus universitaires desservent plusieurs arrêts tels que le Campus Sud, Total Kara Sud, et Palais des Congrès, avec des horaires de passage réguliers. Le prix du ticket est de 150 FCFA par trajet.
-Horaires d'arrêt : 5h30, 6h30, 7h30, 12h30, 13h30, 14h, 17h30, 18h30.
+Les Arrêts Bus : Campus Sud, Total Kara Sud, Immeuble TAGBA, Palais des Congrès, Ecole Primaire Centrale Pya(Towda), PSE avec des horaires de passage réguliers. Le prix du ticket est de 150 FCFA par trajet.
+Horaires d'Arrêt : 5h30, 6h, 7h, 12h, 13h, 14h, 17h, 18h.
 Support et ressources pour les étudiants :
 il y a plusieurs ressources en ligne pour aider les étudiants dans leurs études, telles que Coursera, Stack Overflow, FreeCodeCamp, OpenClassrooms, et W3Schools.
 Les étudiants peuvent bénéficier de bourses basées sur leur performance académique. Des stages sont également disponibles en deuxième et troisième année.
