@@ -8,7 +8,7 @@ let firstQuestion = 1;
 const conversationHistory = []; // Stocker l'historique ainsi garder le contexte...
 
 // Configuration de l'API Gemini de Google
-const API_KEY = "AIzaSyC6CiDUvJcqnGC7wPv1_yiWgKX0bcdr8PI";
+const API_KEY = "AIzaSyCNNXkETRjeDQQ-eSt7SIMYj0U5pqWsw4o";
 const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=${API_KEY}`;
 
 const userData = {
@@ -167,18 +167,26 @@ const generateBotResponse = async (incomingMessageDiv) => {
     // Ajoute l'échange au contexte
     conversationHistory.push({ user: userData.message, bot: APIresponse });
   } catch (error) {
+    if (error.message.includes("The model is overloaded")) {
+      error.message =
+        "Le modèle est surchargé. Veuillez reéssayer plus tard...";
+      console.error(error.message);
+    } else if (error.message.includes("Failed to fetch")) {
+      error.message =
+        "Echec de connexion au serveur...Vérifiez votre connexion et reéssayez...";
+      console.error(error.message);
+    } else if (error.message.includes("API key")) {
+      error.message =
+        "Clé d'API invalide... Contactez les administrateurs (@whitexudan et @eva) à l'adresse : yuchilongyan15@gmail.com hunterwillson50@gmail.com pour leur faire part de l'incident.";
+      console.error(error.message);
+    } else {
+      error.message =
+        "Une erreur inattendue est survenue... Veuillez reéssayer plus tard...";
+      console.error(error.message);
+    }
     messageElement.innerHTML = ""; // Efface le message existant avant de mettre à jour
     typeWriter(error.message, "response", 20);
     messageElement.style.color = "#ff0000";
-    if (error.message.includes("The model is overloaded")) {
-      console.error(
-        "Le modèle est surchargé. Nouvelle tentative dans 10 secondes..."
-      );
-
-      setTimeout(() => generateBotResponse(incomingMessageDiv), 10000); // Réessayer après 3 secondes
-    } else {
-      console.error("Une erreur inattendue est survenue:", error);
-    }
   } finally {
     incomingMessageDiv.classList.remove("thinking");
     chatBody.scrollTo({ top: chatBody.scrollHeight, behavior: "smooth" });
